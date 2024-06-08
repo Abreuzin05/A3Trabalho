@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Model;
 
 import java.sql.SQLException;
@@ -9,10 +6,6 @@ import java.util.ArrayList;
 
 import DAO.AmigoDAO;
 
-/**
- *
- * @author kaique
- */
 public class Amigo {
     private int id;
     private String nome;
