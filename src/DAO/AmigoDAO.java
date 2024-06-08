@@ -8,14 +8,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-/**
- *
- * @author lucas
- */
 public class AmigoDAO {
     public static ArrayList<Amigo> MinhaLista = new ArrayList<Amigo>();
 
