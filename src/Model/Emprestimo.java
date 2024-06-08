@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Model;
 
 import java.sql.SQLException;
@@ -10,10 +6,6 @@ import java.util.Date;
 
 import DAO.EmprestimoDAO;
 
-/**
- *
- * @author kaique
- */
 public class Emprestimo {
     private int id;
     private Date emprestimo;
